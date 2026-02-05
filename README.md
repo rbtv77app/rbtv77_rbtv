@@ -29,6 +29,9 @@ The latest version of the RBTV77 Android WebView app is available on the officia
 ## Disclaimer
 This app is a WebView wrapper for the official website. All content is loaded directly from the website.
 
+## Privacy Policy
+[https://rbtv77apk.app/privacy-policy/](https://rbtv77apk.app/privacy-policy/)
+
 ## Support
 For updates and support, visit:
 [https://rbtv77apk.app/contact-us/](https://rbtv77apk.app/contact-us/)
