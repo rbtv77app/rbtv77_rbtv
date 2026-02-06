@@ -14,10 +14,6 @@ The app opens the RBTV77 homepage and allows users to browse all internal pages,
 ## Official Website
 [https://rbtv77apk.app/](https://rbtv77apk.app/)
 
-## Download APK
-The latest version of the RBTV77 Android WebView app is available on the official website:
-[https://rbtv77apk.app/download/](https://rbtv77apk.app/downloads/)
-
 ## Latest Version
 [https://rbtv77apk.app/rbtv-plusss/](https://rbtv77apk.app/rbtv-plusss/)
 
