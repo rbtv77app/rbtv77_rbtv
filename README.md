@@ -19,7 +19,7 @@ The latest version of the RBTV77 Android WebView app is available on the officia
 [https://rbtv77apk.app/download/](https://rbtv77apk.app/downloads/)
 
 ## Latest Version
-[https://rbtv77apk.app/rbtv-77-plus/](https://rbtv77apk.app/rbtv-77-plus/)
+[https://rbtv77apk.app/rbtv-plusss/](https://rbtv77apk.app/rbtv-plusss/)
 
 ## App Information
 - Platform: Android
