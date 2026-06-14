@@ -2,7 +2,7 @@
 
 RBTV77 APK Android app is a lightweight WebView-based application that provides direct access to the official RBTV77 website on Android devices.
 
-The app opens the RBTV77 homepage and allows users to browse all internal pages, articles, and external links smoothly inside the application.
+The app opens the [RBTV77](https://rbtv77apk.app/rbtvplus/) homepage and allows users to browse all internal pages, articles, and external links smoothly inside the application.
 
 ## Key Features
 - Lightweight Android WebView app
