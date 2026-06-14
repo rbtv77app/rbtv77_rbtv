@@ -15,7 +15,7 @@ The app opens the [RBTV77](https://rbtv77apk.app/rbtvplus/) homepage and allows 
 [https://rbtv77apk.app/](https://rbtv77apk.app/)
 
 ## Latest Version
-[https://rbtv77apk.app/rbtv-plusssss/](https://rbtv77apk.app/rbtv-plusssss/)
+[https://rbtv77apk.app/rbtvplus/](https://rbtv77apk.app/rbtvplus/)
 
 ## App Information
 - Platform: Android
